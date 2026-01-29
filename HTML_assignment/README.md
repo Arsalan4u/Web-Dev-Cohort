@@ -20,15 +20,18 @@ The goal of this project is to present my academic background, technical skills,
 
 ---
 
-
 ## 📂 Project Structure
+
+```text
 HTML_assignment/
 ├── Resume.html
 ├── README.md
 └── Screenshot/
-├── SC1.png
-├── SC2.png
-├── SC3.png
-└── SC4.png
+    ├── SC1.png
+    ├── SC2.png
+    ├── SC3.png
+    └── SC4.png
+```
+
 
 
