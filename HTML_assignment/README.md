@@ -33,5 +33,24 @@ HTML_assignment/
     └── SC4.png
 ```
 
+## 🚀 How to Run the Project
+
+### Option 1: Open directly in a browser
+1. Download or clone the repository
+2. Navigate to the `HTML_assignment` folder
+3. Double-click on `Resume.html`
+4. The resume will open in your default web browser
+
+### Option 2: Using VS Code (Recommended)
+1. Open the folder in **VS Code**
+2. Right-click on `Resume.html`
+3. Select **Open with Live Server** (if Live Server extension is installed)
+
+
+📸 Screenshots (Demo)
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-29 212500" src="https://github.com/user-attachments/assets/6d07b7c4-2dc4-46e6-b29c-ba40c9b4cbed" />
 
 
