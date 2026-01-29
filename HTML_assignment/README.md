@@ -50,7 +50,19 @@ HTML_assignment/
 📸 Screenshots (Demo)
 
 
-
+Screenshot !
 <img width="1920" height="1080" alt="Screenshot 2026-01-29 212500" src="https://github.com/user-attachments/assets/6d07b7c4-2dc4-46e6-b29c-ba40c9b4cbed" />
+
+Screenshot 2
+<img width="1920" height="1080" alt="Screenshot 2026-01-29 212749" src="https://github.com/user-attachments/assets/d7f67853-9f6d-4f37-8dea-8d757eea05ba" />
+
+Output: Screenshot 3
+<img width="1919" height="1027" alt="Screenshot 2026-01-29 213339" src="https://github.com/user-attachments/assets/3823d8cc-6073-4e4c-a544-d83d3c339903" />
+
+Ouyput: Screenshot 4
+<img width="1919" height="1028" alt="Screenshot 2026-01-29 213404" src="https://github.com/user-attachments/assets/f66d34dd-4a63-42ee-a5b3-17639efd50b4" />
+
+
+
 
 
