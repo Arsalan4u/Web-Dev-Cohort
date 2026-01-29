@@ -20,15 +20,15 @@ The goal of this project is to present my academic background, technical skills,
 
 ---
 
-## 📂 Project Structure
 
-WEB DEV COHORT/
-├── .git
-├── HTML_assignment/
-│   ├── Screenshot/
-│   │   ├── SC1.png
-│   │   ├── SC2.png
-│   │   ├── SC3.png
-│   │   └── SC4.png
-│   ├── README.md
-│   └── Resume.html
+## 📂 Project Structure
+HTML_assignment/
+├── Resume.html
+├── README.md
+└── Screenshot/
+├── SC1.png
+├── SC2.png
+├── SC3.png
+└── SC4.png
+
+
